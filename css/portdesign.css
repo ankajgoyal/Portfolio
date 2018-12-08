@@ -1,0 +1,25 @@
+.myimage{
+    padding-top: 120px;
+    border-radius: 100px;
+    margin-left: 35px
+}
+.search-engine{
+    margin-top: 30px;
+    margin-left: -85px;
+    width: 550px
+}
+.tile1{
+    margin-top : 30px;
+    margin-left:-60px;
+    width:130px;
+}
+.tile2{
+    margin-top : 30px;
+    margin-left: 20px;
+    width:160px;
+}
+.tile3{
+    margin-top : 30px;
+    margin-left: 20px;
+    width:120px;
+}
